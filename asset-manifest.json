@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/emp-reactapp/static/css/main.c0f8bb77.chunk.css",
-    "main.js": "/emp-reactapp/static/js/main.d28975c3.chunk.js",
-    "main.js.map": "/emp-reactapp/static/js/main.d28975c3.chunk.js.map",
-    "runtime-main.js": "/emp-reactapp/static/js/runtime-main.fc9ffd2a.js",
-    "runtime-main.js.map": "/emp-reactapp/static/js/runtime-main.fc9ffd2a.js.map",
-    "static/js/2.50132544.chunk.js": "/emp-reactapp/static/js/2.50132544.chunk.js",
-    "static/js/2.50132544.chunk.js.map": "/emp-reactapp/static/js/2.50132544.chunk.js.map",
-    "index.html": "/emp-reactapp/index.html",
-    "precache-manifest.b071806c4291f5887582dffcffbe5add.js": "/emp-reactapp/precache-manifest.b071806c4291f5887582dffcffbe5add.js",
-    "service-worker.js": "/emp-reactapp/service-worker.js",
-    "static/css/main.c0f8bb77.chunk.css.map": "/emp-reactapp/static/css/main.c0f8bb77.chunk.css.map",
-    "static/js/2.50132544.chunk.js.LICENSE.txt": "/emp-reactapp/static/js/2.50132544.chunk.js.LICENSE.txt"
+    "main.css": "/app/static/css/main.c0f8bb77.chunk.css",
+    "main.js": "/app/static/js/main.d28975c3.chunk.js",
+    "main.js.map": "/app/static/js/main.d28975c3.chunk.js.map",
+    "runtime-main.js": "/app/static/js/runtime-main.b84f7132.js",
+    "runtime-main.js.map": "/app/static/js/runtime-main.b84f7132.js.map",
+    "static/js/2.50132544.chunk.js": "/app/static/js/2.50132544.chunk.js",
+    "static/js/2.50132544.chunk.js.map": "/app/static/js/2.50132544.chunk.js.map",
+    "index.html": "/app/index.html",
+    "precache-manifest.45e11c65251ab4eb855cc4cf4895bb1c.js": "/app/precache-manifest.45e11c65251ab4eb855cc4cf4895bb1c.js",
+    "service-worker.js": "/app/service-worker.js",
+    "static/css/main.c0f8bb77.chunk.css.map": "/app/static/css/main.c0f8bb77.chunk.css.map",
+    "static/js/2.50132544.chunk.js.LICENSE.txt": "/app/static/js/2.50132544.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.fc9ffd2a.js",
+    "static/js/runtime-main.b84f7132.js",
     "static/js/2.50132544.chunk.js",
     "static/css/main.c0f8bb77.chunk.css",
     "static/js/main.d28975c3.chunk.js"
